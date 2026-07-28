@@ -1,9 +1,14 @@
 # hey! I'm Meyers
 
-I'm a master's student in Computer Science, mainly working around AI these days.
+I'm an Infrastructure Developer and this is the story of my Infrastructure. You'll find Infrastructure as Code, MLOps, and general experimentation here.
 
-This GitHub features most of my big projects - from Machine Learning to React to Deployment as Code.
+## The MeyersTK Org
 
-Check out my writeups on my [portfolio](https://meyersa.com).
+Check out the MeyersTK GitHub Org which encapsulates everything running on my servers
+https://github.com/meyerstk 
 
-I dabble in Python, C, C#, Lua, Java, JavaScript, HTML, and CSS.
+This includes all of the resources, automation, GitOps, and of course deployed applications
+
+## My Profile 
+
+What's left here are things not deployed there; e.g. tools, old projects, or things in progress at a smaller scale. 
